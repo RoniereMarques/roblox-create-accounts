@@ -46,6 +46,7 @@ if token != 0:
     print "result token: "+token
 else:
     print "task finished with error "+solver.error_code
+```
 
 ### Observações
 
